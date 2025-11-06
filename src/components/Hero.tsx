@@ -261,7 +261,7 @@ export function Hero() {
             <div className="relative w-[400px] h-[400px] rounded-full overflow-hidden">
               {" "}
               <ImageWithFallback
-                src="portfolioPic.png"
+                src="https://avatars.githubusercontent.com/u/205949349?v=4"
                 alt="Akshitha Thirumani"
                 className="w-full h-full object-cover"
                 style={{
